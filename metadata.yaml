@@ -1,0 +1,26 @@
+_repo: The-Story-of-the-American-Merchant-Marine_53122
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spears, John Randolph
+    alias: Spears, John R.
+    birthdate: 1850
+    deathdate: 1936
+    gutenberg_agent_id: '39848'
+    url: http://www.gutenberg.org/2009/agents/39848
+description: ''
+gutenberg_issued: '2016-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53122'
+  lccn: '10007503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Merchant marine -- United States'
+- GITenberg
+title: The Story of the American Merchant Marine
+url: http://www.gutenberg.org/ebooks/53122
